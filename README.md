@@ -1,0 +1,3 @@
+- Install npm
+- Install webpack
+- Install react

@@ -1,0 +1,27 @@
+{
+  "name": "react-test",
+  "version": "1.0.0",
+  "description": "Test and learn about react & redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damzcodes/react-test.git"
+  },
+  "author": "Lola Odelola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damzcodes/react-test/issues"
+  },
+  "homepage": "https://github.com/damzcodes/react-test#readme",
+  "devDependencies": {
+    "webpack": "^1.12.12"
+  },
+  "dependencies": {
+    "babel-preset-react": "^6.3.13",
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6"
+  }
+}
